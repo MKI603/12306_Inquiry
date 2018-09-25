@@ -1,3 +1,6 @@
+
+该死，12306的json格式又改了，这个tool算是暂时gg了
+
 # 12306_Inquiry
 Use Python to inquire the trains.<br>
 使用方法如下
